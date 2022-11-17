@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "raman",
+      "userid": "8770",
+      "address": "mumbai",
+      "id": 1
+    },
+    {
+      "name": "aarti",
+      "userid": "7067",
+      "address": "delhi",
+      "id": 2
+    },
+    {
+      "name": "hariom",
+      "userid": "9575",
+      "address": "indore",
+      "id": 3
+    },
+    {
+      "name": "somesh",
+      "userid": "8765",
+      "address": "pachore",
+      "id": 4
+    },
+    {
+      "name": "yash",
+      "userid": "4587",
+      "address": "kachnariya",
+      "id": 5
+    },
+    {
+      "name": "lakhan",
+      "userid": "7553",
+      "address": "nandanagar",
+      "id": 6
+    }
+  ]
+}
